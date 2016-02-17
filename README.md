@@ -1,3 +1,3 @@
 # hello-world
-hust another repository
-i don't know
+Just another repository
+i don't know what I am doing but this should help
